@@ -1,0 +1,14 @@
+{
+  "name": "clicalculator",
+  "version": "1.0.0",
+  "description": "Cli Calculator application to calculate the bill based on user input",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Himansu Khuntia",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.1.1"
+  }
+}
