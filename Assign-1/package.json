@@ -1,0 +1,14 @@
+{
+  "name": "archivefiles",
+  "version": "1.0.0",
+  "description": "processing a directory and zip all the directories content inside it into another directory.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Himansu Khuntia",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^4.0.1"
+  }
+}
